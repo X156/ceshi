@@ -4,7 +4,7 @@ on:
 
   
 
-  push: # push触发
+  push: # push触
 
     branches: [ main ]
 
